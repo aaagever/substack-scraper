@@ -1,0 +1,12 @@
+# Your personal author list and everything scraped with it
+config.json
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store

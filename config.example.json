@@ -1,0 +1,18 @@
+{
+  "authors": [
+    {
+      "name": "Example Author",
+      "slug": "exampleauthor",
+      "output_dir": "example-author"
+    },
+    {
+      "name": "Author On A Custom Domain",
+      "slug": "customdomainauthor",
+      "domain": "newsletter.example.com",
+      "output_dir": "custom-domain-author"
+    }
+  ],
+  "settings": {
+    "output_root": "./output"
+  }
+}
